@@ -1,0 +1,37 @@
+{
+  "name": "article_reviews",
+  "version": "1.0.0",
+  "description": "This is a review of different articles written y different authors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamezjaz/Article_Reviews.git"
+  },
+  "keywords": [
+    "javascript",
+    "webpack",
+    "articles",
+    "reviews"
+  ],
+  "author": "Odufu James Chigozie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamezjaz/Article_Reviews/issues"
+  },
+  "homepage": "https://github.com/jamezjaz/Article_Reviews#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint-scss": "^3.17.2",
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  }
+}
